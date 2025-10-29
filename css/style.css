@@ -91,6 +91,7 @@ section img {
 
 }
 
+/*Estilo tablet*/
 @media(max-width: 768px){
 
     header img{
@@ -103,7 +104,8 @@ section img {
 
 }
 
-@media(max-width: 375px){
+/*Estilo mobile*/
+@media(max-width: 393px){
 
     header img{
         margin: 32px 0 0 16px;
